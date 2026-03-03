@@ -3,6 +3,7 @@
     "id": 1,
     "title": "Demo Movie",
     "thumbnail": "https://via.placeholder.com/200",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "category": "Action"
   }
 ]
